@@ -24,7 +24,7 @@ For more resources on this, check here:
 The current project:
 <br>
 <li>Aim: to create my own music classifier that can distinguish between music I like and music I don’t (binary classifier).
-<br<
+<br>
 <li>Secondary aim: to attain high classification accuracy without the need for large training data samples.
 <br>
 <li>Data: 
