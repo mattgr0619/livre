@@ -9,4 +9,8 @@ Deep learning, simply stated, is an advanced type of data analysis that originat
 One thing I recently found out is that the algorithms are also being used to categorize sound and music. By converting a sound into a spectrogram, or essentially a three dimensional frequency (y) and amplitude (color) over time (x) graph (look below too for an example), these algorithms are able to approach sound the way they approach sight -- as an array! 
 
 Here is an example of a spectrogram:
+![firework67 mp3](https://user-images.githubusercontent.com/52679590/129635060-922a3197-e0bf-4fad-96e9-d26cbb4f513d.png)
+
+It represents frequency (Hz) over time (s), and also includes a representation of amplitude (volume), showing louder sounds/frquencies as brighter. Clips such as these are fed into a binary classifier to distinguish 
+
 
