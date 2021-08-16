@@ -43,6 +43,13 @@ A “train” sample of seven songs I like, all of which have the commonality of
 <li>Get By by Talib Kweli  
 <li>Overnight Celebrity by Twista
 
+<br>
+<br>
 
+  <b> CNN Topography </b>
+  ![Screenshot (421)](https://user-images.githubusercontent.com/52679590/129637024-6b86d73e-7e07-4676-b046-6cf946be24a9.png)
+
+<br>
+ Source: https://www.kaggle.com/uysimty/keras-cnn-dog-or-cat-classification
 
 
