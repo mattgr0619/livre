@@ -22,21 +22,22 @@ For more resources on this, check here:
 <br>
 
 The current project:
-
+<br>
 <li>Aim: to create my own music classifier that can distinguish between music I like and music I don’t (binary classifier).
-
+<br<
 <li>Secondary aim: to attain high classification accuracy without the need for large training data samples.
-
+<br>
 <li>Data: 
-
-A “train” sample of seven songs I like, all of which have the commonality of being Rap/RnB music from the late 90’s/early 2000’s.
-Dice of Life by Andre Nickatina 
-Roc Da Mic by Beanie Sigel feat Freeway
-Gangsta Lean by Clipse
-Señorita by Justin Timberlake
-Big Head by Ms. Jade
-Get By by Talib Kweli  
-Overnight Celebrity by Twista
+<br>
+A “train” sample of seven songs I like, all of which have the commonality of being Rap/RnB music from the late 90’s/early 2000’s:
+<br>
+<li>Dice of Life by Andre Nickatina 
+<li>Roc Da Mic by Beanie Sigel feat Freeway
+<li>Gangsta Lean by Clipse
+<li>Señorita by Justin Timberlake
+<li>Big Head by Ms. Jade
+<li>Get By by Talib Kweli  
+<li>Overnight Celebrity by Twista
 
 
 
