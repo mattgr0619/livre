@@ -23,13 +23,13 @@ For more resources on this, check here:
 
 The current project:
 <br>
-<li>Aim: to create my own music classifier that can distinguish between music I like and music I don’t (binary classifier).
+<li><b>Aim:</b> to create my own music classifier that can distinguish between music I like and music I don’t (binary classifier).
 <br>
 <br>
-<li>Secondary aim: to attain high classification accuracy without the need for large training data samples.
+<li><b>Secondary Aim:</b> to attain high classification accuracy without the need for large training data samples.
 <br>
 <br>
-<li>Data: 
+<li><b>Data:</b> 
 <br>
 <br>
 A “train” sample of seven songs I like, all of which have the commonality of being Rap/RnB music from the late 90’s/early 2000’s:
